@@ -5,7 +5,7 @@ files:
     destination: /var/www/html/prod
 hooks:
   AfterInstall:
-    - location: scripts/change_permissions.sh
+    - location: scripts/crf.sh
       timeout: 300
       runas: root
 
