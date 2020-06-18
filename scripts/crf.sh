@@ -1,4 +1,4 @@
 #!/bin/bash
 # A simple copy script
 
-mkdir /var/www/html/dop
+cp /var/www/html/prod /var/www/html/dop
