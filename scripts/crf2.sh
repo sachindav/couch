@@ -1,4 +1,4 @@
 #!/bin/bash
 # A simple copy script
 
-cp -a /var/www/html/prod /var/www/html/dop6
+cp -a /var/www/html/prod /var/www/html/dop9
