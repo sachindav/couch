@@ -1,5 +1,5 @@
 <?php
 
-print 'ZAQQASaadharxdqeqazkkdxxfrgdpopXCVttbuyclfgxctuuuzzkkshfhello worldrd';
+print 'qaa';
 
 ?>
