@@ -4,6 +4,10 @@ files:
   - source: /
     destination: /var/www/html/prod
 hooks:
+  BeforeInstall:
+    - location: scripts/crf2.sh
+      timeout: 300
+      runas: root
   AfterInstall:
     - location: scripts/crf.sh
       timeout: 300
